@@ -1,0 +1,16 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.ContenedorTexto {
+    background-color: rgb(194, 204, 207);
+}
+
+nav ul li:hover {
+    font-weight:bolder;
+}
+
+Body {
+    background-color: grey;
+}
